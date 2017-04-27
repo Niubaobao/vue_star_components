@@ -1,5 +1,5 @@
 # vue2
-
+一个vue编写的星星组件
 > A Vue.js project
 
 ## Build Setup
